@@ -5,9 +5,9 @@ I’m an enthusiastic learner on a journey to master **IT certifications** and d
 
 ---
 
-## 📚 My Learning Platform: [NwExam.com](https://www.nwexam.com/)
+## 📚 My Learning Platform: [NWExam.com](https://www.nwexam.com/)
 
-I use and recommend **NwExam.com**, a platform designed for learners like me who want to:
+I use and recommend **NWExam.com**, a platform designed for learners like me who want to:
 
 - ✅ Prepare for top IT certifications through practice  
 - 🧠 Understand core technical concepts with real-world questions  
@@ -49,7 +49,7 @@ Here on GitHub, I plan to:
 
 ## 🌐 Let’s Connect
 
-- Website: [www.nwexam.com](https://www.nwexam.com/)  
+- NWExam: [www.nwexam.com](https://www.nwexam.com/)  
 - Medium Blog: [Certify Insider](https://medium.com/@nwexam)
 ---
 
