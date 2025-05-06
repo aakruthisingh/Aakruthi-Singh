@@ -50,9 +50,7 @@ Here on GitHub, I plan to:
 ## 🌐 Let’s Connect
 
 - Website: [www.nwexam.com](https://www.nwexam.com/)  
-- Medium Blog: [Certify Insider](https://medium.com/@nwexam)  
-- LinkedIn: *(Add your link if you have one)*
-
+- Medium Blog: [Certify Insider](https://medium.com/@nwexam)
 ---
 
 ## 💡 My Motto
